@@ -1,5 +1,6 @@
 bank_venv
 logs
+regressionlogs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
