@@ -60,8 +60,8 @@ The core network structure includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
-cd Bank-Customer-Churn-ANN
+git clone https://github.com/imshivang03/Bank_Customers_Churn_Prediction_Using_ANN.git
+cd Bank_Customers_Churn_Prediction_Using_ANN
 ```
 
 ### 2. Install Dependencies
@@ -75,7 +75,7 @@ Open and execute the main pipeline script or Jupyter Notebook:
 ```bash
 jupyter notebook churn_prediction.ipynb
 ```
-*(Alternatively, run `python main.py` if structured as a standalone script).*
+*(Alternatively, run `python app.py` if structured as a standalone script).*
 
 ---
 
